@@ -1,9 +1,13 @@
-import Propop from "../../Layout/propop";
+import { AppContext } from "../../Context/AppContext";
+import Propop from "../../Layout/Propop";
 
 const Cours = ({extrait})=>{
     return(
         <div>
-            <Propop extrait={extrait}/>
+            <h1>Cours</h1>
+            <AppContext.Provider value={{extrait}}>
+                <Propop/>
+            </AppContext.Provider>
         </div>
     )
 }

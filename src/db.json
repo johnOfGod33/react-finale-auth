@@ -1,0 +1,7 @@
+{
+    "musics" : [
+        {"id":"1","artiste":"Yeat", "titre":"Flawless"},
+        {"id":"2","artiste":"Damso", "titre":"MOROSE"},
+        {"id":"3","artiste":"Tayc", "titre":"Room 96"}
+    ]
+}

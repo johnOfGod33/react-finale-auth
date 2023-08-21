@@ -1,0 +1,37 @@
+.header{
+    background-color: rgb(0, 255, 85);
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10vh;
+}
+
+.header ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header li{
+    height: 30px;
+    width: 100px;
+}
+.utilisateur{
+    display: flex;
+    justify-content: space-around;
+}
+.utilisateur aside{
+    display: flex;
+    align-items: center;
+}
+
+
+.utilisateur__Icon{
+    height: 30px;
+    width: 30px;
+    background-image: url("../../../assets/icon/utilisateur.png");
+    background-position: center;
+    background-size: cover;
+    
+}
