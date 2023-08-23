@@ -3,5 +3,11 @@
         {"id":"1","artiste":"Yeat", "titre":"Flawless"},
         {"id":"2","artiste":"Damso", "titre":"MOROSE"},
         {"id":"3","artiste":"Tayc", "titre":"Room 96"}
+    ],
+
+    "users" : [
+        {"id":"1", "nom":"jean de dieu", "mdp":"jeandedieu"},
+        {"id":"2", "nom":"Herve", "mdp":"sessou123"}
     ]
 }
+
